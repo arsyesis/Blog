@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-  <html>
-    <head>
-    </head>
-    <body>
-      coucou
-    </body>
+coucou
